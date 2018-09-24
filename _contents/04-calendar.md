@@ -9,8 +9,10 @@ image: ""
 |           | Reading                | Topic
 |-----------|------------------------|---------
 | **Week 1 Sept 12**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 1       | Introduction <br/> [pdf slides](/assets/slides/lec1.pdf) 
-| **Week 2 Sept 19**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 2-4     | Multi-Armed Bandits, MDPs, Dynamic Programming  <br/> [pdf slides](/assets/slides/lec2.pdf) 
-| **Week 3 Sept 26** | [Residual Algorithms: Reinforcement Learning with Function Approximation](http://www.leemon.com/papers/1995b.pdf) [An Analysis of Temporal Difference Learning with Function Approximation](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf)  [Temporal Difference Learning and TD-Gammon](http://enzodesiage.com/wp-content/uploads/2017/08/tesauro-tdgammon-1995.pdf) [Neural Fitted Q Iteration](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf) [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)          |  
+| | |
+| **Week 2 Sept 19**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 2-4     | Multi-Armed Bandits, MDPs, Dynamic Programming  <br/> [pdf slides](/assets/slides/lec2.pdf)
+| | |
+| **Week 3 Sept 26** | [Residual Algorithms: Reinforcement Learning with Function Approximation](http://www.leemon.com/papers/1995b.pdf) <br> [An Analysis of Temporal Difference Learning with Function Approximation](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf) <br> [Temporal Difference Learning and TD-Gammon](http://enzodesiage.com/wp-content/uploads/2017/08/tesauro-tdgammon-1995.pdf) <br> [Neural Fitted Q Iteration](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf) <br> [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)          |  
 |                    |               |  
 | **Week 4 Oct 3**   |               |  
 |                    |               |  
