@@ -14,3 +14,5 @@ exclude:
   - LICENSE.txt
   - CNAME
 markdown: kramdown
+
+theme: jekyll-theme-cayman
