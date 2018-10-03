@@ -19,12 +19,13 @@ image: ""
 | | [Neural Fitted Q Iteration](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf) |  Oliver Limoyo
 | | [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) |  Hyunmin Lee
 | | |  
-| **Week 4 Oct 3** | Monte-Carlo Planning & Policy Search| 
+| **Week 4 Oct 3** | Monte-Carlo Planning| 
 | | [Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search](https://hal.inria.fr/inria-00116992/document) | Bret Nestor
 | | [Kocsis, Szepesvari, “Bandit based Monte-Carlo Planninga](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.102.1296) | Ranjani Murali  
 | | [Combining Online and Offline Knowledge in UCT](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Applications_files/combining_uct.pdf) | Alberto Camacho
 | | [Temporal-Difference Search in Computer Go](https://link.springer.com/content/pdf/10.1007%2Fs10994-012-5280-0.pdf) | Jesse Bettencourt
 | | [Mastering the game of Go with deep neural networks and tree search](https://deepmind.com/documents/119/agz_unformatted_nature.pdf) | Will Grathwohl
+| | Policy Search | 
 | | [Actor-Critic Algorithms](https://papers.nips.cc/paper/1786-actor-critic-algorithms.pdf) | Xiaohui Zeng
 | | [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) | Lan Xiao
 | | [Infinite-Horizon Policy-Gradient Estimation](https://arxiv.org/pdf/1106.0665.pdf) | 
