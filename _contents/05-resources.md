@@ -6,7 +6,7 @@ subheading: Resource&#58;
 image: ""
 ---
 
-|           | | 
+| Type | Name | Description 
 |-----------|------------------------|---------
 |RL Code base| [OpenAI Baseline](https://github.com/openai/baselines) | Implementations of common reinforcement learning algorithms.
 |-----------|------------------------|---------
