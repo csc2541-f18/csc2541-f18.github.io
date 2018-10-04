@@ -12,6 +12,6 @@ image: ""
 
 **Office hours:** Jimmy: W 5 -- 6 PT290D 
 
-**Teaching assistants:** [Tingwu Wang](http://www.cs.toronto.edu/~tingwuwang/), [Michael Zhang](http://www.michaelrzhang.com/)
+**Teaching assistants:** [Tingwu Wang](http://www.cs.toronto.edu/~tingwuwang/), [Michael Zhang](https://michaelrzhang.github.io/)
 
 **TA hours:** TH 4--5 PT290C
