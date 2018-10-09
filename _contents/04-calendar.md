@@ -49,9 +49,29 @@ image: ""
 | | [Comparing Policy-Gradient Algorithms](https://pdfs.semanticscholar.org/beef/9a0f27e4ca54eb5c5311f6ac90d90fa88f12.pdf) | Angeline Yasodhara
 |-----------|------------------------|---------
 | | [On a Connection between Importance Sampling and the Likelihood Ratio Policy Gradient](http://rll.berkeley.edu/~jietang/pubs/nips10_Tang.pdf) | Amanjit Singh Kainth
-|                    |               |  
-| **Week 5 Oct 10**  |               |  
-|                    |               |  
+| | |
+| **Week 5 Oct 10**  |  Policy Search (continued)            |  
+|-|-|-
+| |[Asynchronous Models for Deep Reinforcment Learning](https://arxiv.org/pdf/1602.01783.pdf) | 
+|-|-|-
+| |[Refining Autonomous Robot Controllers Using Reinforcement Learning](ftp://swanson.seas.upenn.edu/pub/kumar/papers/2003/robRL.pdf) |
+|-|-|-
+| |[Reinforcement Learning in Feedback Control](https://link.springer.com/article/10.1007/s10994-011-5235-x)|
+|-|-|-
+| |[Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)|
+|-|-|-
+| |[Continuous Control With Deep Reinforcment Learning](http://rll.berkeley.edu/~jietang/pubs/nips10_Tang.pdf) |
+|                    |  Hierarchical Reinforcement Learning             |  
+| |[Reinforcement Learning with Hierarchies of Machines](https://people.eecs.berkeley.edu/~russell/classes/cs294/f05/papers/parr+russell-1998.pdf) |
+|-|-|-
+| |[Intrinsically Motivated Learning of Hierarchical Collections of Skills](http://www-anw.cs.umass.edu/~barto/courses/cs687/barto_sc_ICDL04.pdf) |
+|-|-|-
+| |[Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf)|
+|-|-|-
+| |[Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition](https://arxiv.org/pdf/cs/9905014.pdf) |
+|-|-|-
+| |[Coordinated Reinforcement Learning](https://people.eecs.berkeley.edu/~russell/classes/cs294/f05/papers/guestrin+al-2002.pdf) |
+| | |
 | **<span style="color:#b32425">Project proposal due (Oct 14)</span>**            |        |
 |                   |               |  
 | **Week 6 Oct 17**  |               |  
