@@ -74,7 +74,30 @@ image: ""
 | | |
 | **<span style="color:#b32425">Project proposal due (Oct 14)</span>**            |        |
 |                   |               |  
-| **Week 6 Oct 17**  |               |  
+| **Week 6 Oct 17**  | Exploration, intrinsic motivation, curiousity       | 
+|-|-|- 
+| |[Curious model-building control systems](ftp://ftp.idsia.ch/pub/juergen/curioussingapore.pdf) | 
+|-|-|- 
+| |[Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://arxiv.org/pdf/1509.08731.pdf) | 
+|-|-|- 
+| |[Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](https://arxiv.org/pdf/1507.00814.pdf)| 
+|-|-|- 
+| |[Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf)|
+|-|-|- 
+| |[VIME: Variational Information Maximizing Exploration](https://arxiv.org/pdf/1605.09674.pdf)|
+|           |  Model-based reinforcement learning            | 
+|-|-|- 
+| |[Guided policy search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf)|
+|-|-|- 
+| |[Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/pdf/1708.02596.pdf)|
+|-|-|- 
+| |[The Cross-Entropy Method for Optimization](https://people.smp.uq.edu.au/DirkKroese/ps/CEopt.pdf)|
+|-|-|- 
+| |[Deep Reinforcement in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/pdf/1805.12114.pdf)|
+|-|-|- 
+| |Sutton: Dyna, an Integrated Architecture for Learning, Planning, and Reacting |
+|-|-|- 
+| |[World Models](https://arxiv.org/pdf/1803.10122.pdf)|
 |                    |               |  
 | **Week 7 Oct 24**  |               |  
 |                    |               |  
