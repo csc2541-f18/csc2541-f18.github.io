@@ -4,3 +4,4 @@ _site/
 *.swp
 _contents/*.swp
 *.swo
+Gemfile.lock

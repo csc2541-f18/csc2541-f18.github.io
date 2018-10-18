@@ -12,7 +12,9 @@ image: ""
 | | |
 | **Week 2 Sept 19**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 2-4     | Multi-Armed Bandits, MDPs, Dynamic Programming  <br/> [pdf slides](/assets/slides/lec2.pdf)
 | | |
-| **Week 3 Sept 26** | Value Function Approximation | 
+| **Week 3 Sept 26** | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 5-7 | Monte-Carlo and Temporal Difference Learning <br/> [pdf slides](/assets/slides/lec3.pdf) 
+|-----------|------------------------|---------
+|  | Value Function Approximation  |  
 |-----------|------------------------|---------
 | | [Baird. Residual algorithm: Reinforcement Learning with Function Approximation](http://www.leemon.com/papers/1995b.pdf) | 
 |-----------|------------------------|---------
