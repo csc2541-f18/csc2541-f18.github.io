@@ -14,7 +14,7 @@ image: ""
 | | |
 | **Week 3 Sept 26** | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 5-7 | Monte-Carlo and Temporal Difference Learning <br/> [pdf slides](/assets/slides/lec3.pdf) 
 |-----------|------------------------|---------
-|  | ** Value Function Approximation ** |  
+|  | **Value Function Approximation** |  
 |-----------|------------------------|---------
 | | [Baird. Residual algorithm: Reinforcement Learning with Function Approximation](http://www.leemon.com/papers/1995b.pdf) | 
 |-----------|------------------------|---------
@@ -26,7 +26,7 @@ image: ""
 |-----------|------------------------|---------
 | | [Minh, et al. Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) |  Hyunmin Lee
 | | |  
-| **Week 4 Oct 3** | **  Monte-Carlo Planning ** | 
+| **Week 4 Oct 3** | **Monte-Carlo Planning** | 
 |-----------|------------------------|---------
 | | [Column, Efficient Selectivity and Backup Operators in Monte-Carlo Tree Search](https://hal.inria.fr/inria-00116992/document) | Bret Nestor
 |-----------|------------------------|---------
@@ -38,7 +38,7 @@ image: ""
 |-----------|------------------------|---------
 | | [Silver, et. al. Mastering the game of Go with deep neural networks and tree search](https://deepmind.com/documents/119/agz_unformatted_nature.pdf) | Will Grathwohl
 |-----------|------------------------|---------
-| | ** Policy Search ** | 
+| | **Policy Search** | 
 |-----------|------------------------|---------
 | | [Konda, Tsitsiklis. Actor-Critic Algorithms](https://papers.nips.cc/paper/1786-actor-critic-algorithms.pdf) | Xiaohui Zeng
 |-----------|------------------------|---------
@@ -50,7 +50,7 @@ image: ""
 |-----------|------------------------|---------
 | | [Tang, Abbeel. On a Connection between Importance Sampling and the Likelihood Ratio Policy Gradient](http://rll.berkeley.edu/~jietang/pubs/nips10_Tang.pdf) | Amanjit Singh Kainth
 |                    |               |  
-| **Week 5 Oct 10**  | **    Policy Search Cont. ** |  
+| **Week 5 Oct 10**  | **Policy Search Cont.** |  
 |-----------|------------------------|---------
 | | [Minh, et. al. Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf) | Alex Adam
 |-----------|------------------------|---------
@@ -62,7 +62,7 @@ image: ""
 |-----------|------------------------|---------
 | | [Lillicrap, et. al. Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971.pdf)  | Sergio Casas
 |-----------|------------------------|---------
-| | ** Hierarchical RL	** |
+| | **Hierarchical RL** |
 |-----------|------------------------|---------
 | | [Parr, Russell. Reinforcement Learning with Hierarchies of Machines](https://people.eecs.berkeley.edu/~russell/classes/cs294/f05/papers/parr+russell-1998.pdf) | Bryan Chan
 |-----------|------------------------|---------
@@ -76,7 +76,7 @@ image: ""
 |                    |               |  
 | **<span style="color:#b32425">Project proposal due (Oct 14)</span>**            |        |
 |                   |               |  
-| **Week 6 Oct 17**  | **  Exploration, Intrinsic Motivation, Curiosity ** |
+| **Week 6 Oct 17**  | **Exploration, Intrinsic Motivation, Curiosity** |
 |-----------|------------------------|---------
 | | [Schmidhuber. Curious model-building control systems.](ftp://ftp.idsia.ch/pub/juergen/curioussingapore.pdf) | S. Vineeth Bhaskara
 |-----------|------------------------|---------
@@ -88,7 +88,7 @@ image: ""
 |-----------|------------------------|---------
 | | [Houthooft, et. al. VIME: Variational Information Maximizing Exploration](https://arxiv.org/pdf/1605.09674.pdf) | Zahra Shekarchi
 |-----------|------------------------|---------
-| | ** Model-based RL ** |	
+| | **Model-based RL** |	
 |-----------|------------------------|---------
 | | [Levine, Koltun, Guided Policy Search](https://graphics.stanford.edu/projects/gpspaper/gps_full.pdf) | Shengyang Sun
 |-----------|------------------------|---------
