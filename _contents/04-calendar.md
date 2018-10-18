@@ -20,7 +20,7 @@ image: ""
 |-----------|------------------------|---------
 | | [Tsitsiklis, Roy. An Analysis of Temporal-Difference Learning with Function Approximation](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf) |  
 |-----------|------------------------|---------
-| | [Tesauro. Temporal Difference Learning and TD-Gammon](http://enzodesiage.com/wp-content/uploads/2017/08/tesauro-tdgammon-1995.pdf) |  
+| | [Tesauro. Temporal Difference Learning and TD-Gammon](http://enzodesiage.com/wp-content/uploads/2017/08/tesauro-tdgammon-1995.pdf) |  Karthik Raja
 |-----------|------------------------|---------
 | | [Riedmiller. Neural Fitted Q Iteration](http://ml.informatik.uni-freiburg.de/former/_media/publications/rieecml05.pdf) |  Oliver Limoyo
 |-----------|------------------------|---------
@@ -76,9 +76,7 @@ image: ""
 |                    |               |  
 | **<span style="color:#b32425">Project proposal due (Oct 14)</span>**            |        |
 |                   |               |  
-| **Week 6 Oct 17**  |               |  
-|-----------|------------------------|---------
-| | Exploration, Intrinsic Motivation, Curiosity |
+| **Week 6 Oct 17**  | Exploration, Intrinsic Motivation, Curiosity |
 |-----------|------------------------|---------
 | | [Schmidhuber. Curious model-building control systems.](ftp://ftp.idsia.ch/pub/juergen/curioussingapore.pdf) | S. Vineeth Bhaskara
 |-----------|------------------------|---------
