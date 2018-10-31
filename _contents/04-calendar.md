@@ -103,7 +103,26 @@ image: ""
 | | [Ha, Schmidhuber. World Models](https://arxiv.org/abs/1803.10122) | Farzaneh Mahdisoltani
 |                    |               |  
 | **Week 7 Oct 24**  |               |  
-|                    |               |  
+|-----------|------------------------|---------
+| | **Energy-based control/inference** |
+|-----------|------------------------|---------
+| | [Haarnoja, et. al. Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165)
+| | [Haarnoja, et. al. Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1702.08165) | Mohammad Firouzi
+| | [Nachum, et. al. Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08165) | Kelvin Wong
+| | [Ziebart, et. al. Modeling interaction via the principle of maximum causal entropy](http://www.cs.cmu.edu/~bziebart/publications/maximum-causal-entropy.pdf)
+| | [Levine. Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) | Sean Segal
+|-----------|------------------------|---------
+| | **Inverse RL** |
+|-----------|------------------------|---------
+| | [Ng, Russell. Algorithms for inverse reinforcement learning](https://ai.stanford.edu/~ang/papers/icml00-irl.pdf) | Simon Suo
+| | [Ziebart, et. al. Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf) | Elsa Riachi
+| | [Finn, et. al. A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/abs/1611.03852) | Stephane Aroca-Ouellette
+| | [Hadfield-Menell, et. al. Inverse Reward Design](https://arxiv.org/abs/1711.02827) | Sneha Desai
+|-----------|------------------------|---------
+| | **Evolutionary strategy** |
+|-----------|------------------------|---------
+| | [Brockhoff, et. al. Mirrored Sampling and Sequential Selection for Evolution Strategies](https://hal.inria.fr/inria-00530202v2/document) | Jingcheng Niu
+
 | **Week 8 Oct 31**  |               |  
 |                    |               |  
 | **Week 9 Fall reading week** |     | no class   
