@@ -102,9 +102,7 @@ image: ""
 |-----------|------------------------|---------
 | | [Ha, Schmidhuber. World Models](https://arxiv.org/abs/1803.10122) | Farzaneh Mahdisoltani
 |                    |               |  
-| **Week 7 Oct 24**  |               |  
-|-----------|------------------------|---------
-| | **Energy-based control/inference** |
+| **Week 7 Oct 24**  | **Energy-based control/inference** |
 |-----------|------------------------|---------
 | | [Haarnoja, et. al. Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165)
 | | [Haarnoja, et. al. Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1702.08165) | Mohammad Firouzi
@@ -122,7 +120,7 @@ image: ""
 | | **Evolutionary strategy** |
 |-----------|------------------------|---------
 | | [Brockhoff, et. al. Mirrored Sampling and Sequential Selection for Evolution Strategies](https://hal.inria.fr/inria-00530202v2/document) | Jingcheng Niu
-
+|                    |               |  
 | **Week 8 Oct 31**  |               |  
 |                    |               |  
 | **Week 9 Fall reading week** |     | no class   
