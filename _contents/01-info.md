@@ -10,7 +10,7 @@ image: ""
 
 **Lecture hours:** Wednesday 3 -- 5 ES B142 
 
-**Office hours:** Jimmy: W 5 -- 6 PT290D TAs: TH 4--5 PT290C
+**Office hours:** Jimmy: W 5 -- 6 PT290D TAs: TH 3--4 PT290C
 
 **Teaching assistants:** [Tingwu Wang](http://www.cs.toronto.edu/~tingwuwang/), [Michael Zhang](https://michaelrzhang.github.io/)
 
